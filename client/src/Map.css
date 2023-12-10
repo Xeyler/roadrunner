@@ -1,0 +1,10 @@
+.leaflet-container {
+    background: #111;
+    outline: 0;
+}
+
+@media (prefers-color-scheme: light) {
+    .leaflet-container {
+        background: #f3f3f3;
+    }
+}
